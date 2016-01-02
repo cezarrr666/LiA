@@ -89,19 +89,19 @@
 		"01"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"bonus_mana"	"350 500"
+			"bonus_mana"	"245 350" //-30%, было 350 500 
 		}
 
 		"02"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"bonus_damage" "30 50"
+			"bonus_damage" "23 38" //-25%, было 30 50
 		}
 
 		"03"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"bonus_attack_speed"			"30 45"
+			"bonus_attack_speed"			"24 36"  //-20%, было 30 45
 		}
 		"04"
 		{
@@ -233,19 +233,19 @@
 		"01"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"bonus_mana"	"500"
+			"bonus_mana"	"350" //-30%, было 500 
 		}
 
 		"02"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"bonus_damage" "50"
+			"bonus_damage" "38" //-25%, было 50
 		}
 
 		"03"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"bonus_attack_speed"			"45"
+			"bonus_attack_speed"			"36"  //-20%, было 45
 		}
 		"04"
 		{

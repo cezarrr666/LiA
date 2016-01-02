@@ -28,7 +28,7 @@
 			"01"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_agility" "6"
+				"bonus_agility" "5"  //-15%, было 6
 			}
 		}
 		

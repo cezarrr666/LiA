@@ -12,7 +12,7 @@
 	"LevelsBetweenUpgrades"  "2"
 	
 	"AbilityCooldown"				"14.0 16.0 19.0"	
-	"AbilityDuration"	"10.0 12.0 15.0"
+	"AbilityDuration"	"10"  //было 10/12/15
 	"AbilityCastRange"	"250"
 	"AbilityManaCost"				"60 70 80"	
 	
@@ -128,7 +128,7 @@
 		"01"
 		{
 			"var_type"		"FIELD_INTEGER"
-			"heal_percentage"		"15 20 25"
+			"heal_percentage"		"10 12 14" //было 15 20 25
 		}
 	}
 	"Modifiers"
@@ -257,7 +257,7 @@
 		"particle"			"particles/units/heroes/hero_siren/naga_siren_song_debuff.vpcf"
 	}
 
-	"AbilityCooldown"				"40 30 25"
+	"AbilityCooldown"				"30 40 50" //было 40 30 25
 
 	"AbilityManaCost"				"80 100 120"	
 
@@ -267,7 +267,7 @@
 		"01"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"radius"				"650"
+			"radius"				"400" //было 650
 		}
 		"02"
 		{

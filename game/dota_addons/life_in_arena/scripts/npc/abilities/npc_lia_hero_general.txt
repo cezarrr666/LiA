@@ -272,7 +272,7 @@
 	"RequiredLevel"          "2"
 	"LevelsBetweenUpgrades"  "2"
 
-	"AbilityCastRange"				"150"
+	"AbilityCastRange"				"120" //было 150
 	
 	// Special	
 	//-------------------------------------------------------------------------------------------------------------
@@ -286,7 +286,7 @@
 		"02"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"radius"		"150"
+			"radius"		"120"  //было 150
 		}
 	}
 

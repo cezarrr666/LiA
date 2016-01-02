@@ -58,7 +58,7 @@
        "02"
         {
             "var_type"                "FIELD_FLOAT"
-            "damage"                   "200 400 600"
+            "damage"                   "200 300 400"   //было 200 400 600
         }
     }
   }
@@ -101,7 +101,7 @@
        "03"
         { 
           "var_type"  "FIELD_INTEGER"
-          "hellish_heat_tick_damage" "15 30 60"
+          "hellish_heat_tick_damage" "15 30 45"  //было 15 30 60
         }
     }
 
@@ -204,8 +204,8 @@
     "AbilityTextureName"     "earthshaker_aftershock"
      "AbilityUnitTargetFlags" 		"DOTA_UNIT_TARGET_FLAG_MAGIC_IMMUNE_ENEMIES"   
 
-    "AoERadius"                "280"
-	"AbilityCastRange"			"280"
+    "AoERadius"                "%radius"
+    "AbilityCastRange"			"%radius"
 
     "AbilityType"            "DOTA_ABILITY_TYPE_BASIC"
     "MaxLevel"               "3"
@@ -289,7 +289,7 @@
      "01"
       {
        "var_type"                "FIELD_INTEGER"
-       "radius"                  "300"
+       "radius"                  "230"
       }
      "02"
       {

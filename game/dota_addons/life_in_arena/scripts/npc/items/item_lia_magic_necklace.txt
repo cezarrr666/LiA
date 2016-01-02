@@ -54,7 +54,7 @@
 		"01"
 		{
 			"var_type" "FIELD_INTEGER"
-			"bonus_all_stats" "25"
+			"bonus_all_stats" "21"  //-15%, было 25
 		}
 
 	}

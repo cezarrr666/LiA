@@ -70,7 +70,7 @@
 
 
 "TeamName" "DOTA_TEAM_GOODGUYS" 
-"CombatClassAttack" "DOTA_COMBAT_CLASS_ATTACK_BASIC"
+"CombatClassAttack" "DOTA_COMBAT_CLASS_ATTACK_BASIC"  //
 "CombatClassDefend" "DOTA_COMBAT_CLASS_DEFEND_STRONG"
 "UnitRelationshipClass" "DOTA_NPC_UNIT_RELATIONSHIP_TYPE_DEFAULT"
 
@@ -130,7 +130,7 @@
 "AttackCapabilities" "DOTA_UNIT_CAP_RANGED_ATTACK"
 "AttackDamageMin" "40" 
 "AttackDamageMax" "50" 
-"AttackRate" "0.8" 
+"AttackRate" "0.9" //было 0.8
 "AttackAnimationPoint" "0.33" 
 "AttackAcquisitionRange" "500" 
 "AttackRange" "450" 
@@ -219,7 +219,7 @@
 "AttackCapabilities" "DOTA_UNIT_CAP_RANGED_ATTACK"
 "AttackDamageMin" "90" 
 "AttackDamageMax" "110" 
-"AttackRate" "0.5" 
+"AttackRate" "0.8" //было 0.5
 "AttackAnimationPoint" "0.33" 
 "AttackAcquisitionRange" "500" 
 "AttackRange" "450" 
@@ -314,7 +314,7 @@
 "AttackCapabilities" "DOTA_UNIT_CAP_RANGED_ATTACK"
 "AttackDamageMin" "130" 
 "AttackDamageMax" "140" 
-"AttackRate" "0.9" 
+"AttackRate" "1.3" //было 0.9
 "AttackAnimationPoint" "0.6" 
 "AttackAcquisitionRange" "500" 
 "AttackRange" "475" 
@@ -343,7 +343,7 @@
 
 
 "TeamName" "DOTA_TEAM_GOODGUYS" 
-"CombatClassAttack" "DOTA_COMBAT_CLASS_ATTACK_LIGHT"
+"CombatClassAttack" "DOTA_COMBAT_CLASS_ATTACK_BASIC" //  DOTA_COMBAT_CLASS_ATTACK_LIGHT
 "CombatClassDefend" "DOTA_COMBAT_CLASS_DEFEND_STRONG"
 "UnitRelationshipClass" "DOTA_NPC_UNIT_RELATIONSHIP_TYPE_DEFAULT"
 
@@ -422,7 +422,7 @@
 "AttackCapabilities" "DOTA_UNIT_CAP_RANGED_ATTACK"
 "AttackDamageMin" "180" 
 "AttackDamageMax" "190" 
-"AttackRate" "1.0" 
+"AttackRate" "1.6" //было 1
 "AttackAnimationPoint" "0.6" 
 "AttackAcquisitionRange" "500" 
 "AttackRange" "475" 
@@ -451,7 +451,7 @@
 
 
 "TeamName" "DOTA_TEAM_GOODGUYS" 
-"CombatClassAttack" "DOTA_COMBAT_CLASS_ATTACK_LIGHT"
+"CombatClassAttack" "DOTA_COMBAT_CLASS_ATTACK_BASIC"
 "CombatClassDefend" "DOTA_COMBAT_CLASS_DEFEND_STRONG"
 "UnitRelationshipClass" "DOTA_NPC_UNIT_RELATIONSHIP_TYPE_DEFAULT"
 
@@ -528,7 +528,7 @@
 "AttackCapabilities" "DOTA_UNIT_CAP_RANGED_ATTACK"
 "AttackDamageMin" "250" 
 "AttackDamageMax" "260" 
-"AttackRate" "1.1" 
+"AttackRate" "1.9" //было 1.1
 "AttackAnimationPoint" "0.6" 
 "AttackAcquisitionRange" "500" 
 "AttackRange" "475" 
@@ -557,7 +557,7 @@
 
 
 "TeamName" "DOTA_TEAM_GOODGUYS" 
-"CombatClassAttack" "DOTA_COMBAT_CLASS_ATTACK_LIGHT"
+"CombatClassAttack" "DOTA_COMBAT_CLASS_ATTACK_BASIC"
 "CombatClassDefend" "DOTA_COMBAT_CLASS_DEFEND_STRONG"
 "UnitRelationshipClass" "DOTA_NPC_UNIT_RELATIONSHIP_TYPE_DEFAULT"
 
@@ -635,7 +635,7 @@
 "AttackCapabilities" "DOTA_UNIT_CAP_RANGED_ATTACK"
 "AttackDamageMin" "320" 
 "AttackDamageMax" "330" 
-"AttackRate" "1.5" 
+"AttackRate" "2.2" //было 1.5
 "AttackAnimationPoint" "0.6" 
 "AttackAcquisitionRange" "500" 
 "AttackRange" "475" 
@@ -664,7 +664,7 @@
 
 
 "TeamName" "DOTA_TEAM_GOODGUYS" 
-"CombatClassAttack" "DOTA_COMBAT_CLASS_ATTACK_LIGHT"
+"CombatClassAttack" "DOTA_COMBAT_CLASS_ATTACK_BASIC"
 "CombatClassDefend" "DOTA_COMBAT_CLASS_DEFEND_STRONG"
 "UnitRelationshipClass" "DOTA_NPC_UNIT_RELATIONSHIP_TYPE_DEFAULT"
 

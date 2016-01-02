@@ -7853,7 +7853,7 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"damage_block"			"20 40 80"
+				"damage_block"			"20 40 60" //было 20 40 80
 			}
 			"02"
 			{
@@ -8553,7 +8553,7 @@
 	        "01"
 	        {
 	            "var_type"        "FIELD_INTEGER"
-	            "radius"          "100 125 150"
+	            "radius"          "80 100 120" //было 100 125 150
 	        }
 	        "02"
 	        {
@@ -10129,7 +10129,7 @@
 	    "AbilityTextureName"     "butcher_howl_of_terror"
 	    
 		"AbilityCastRange"	"1500"
-	    "AbilityCooldown" "60.0"
+	    "AbilityCooldown" "90.0"  //было 60
 	
 	    "AbilityManaCost" "100 150 200"
 		
@@ -12218,7 +12218,7 @@
 	    "01"
 	    {
 	      "var_type"                           "FIELD_INTEGER"
-	      "Damage"                      "300 600 900"
+	      "Damage"                      "300 450 650"  //было 300 600 900
 	    }
 	    "02"
 	    {
@@ -14949,7 +14949,7 @@
 		"RequiredLevel"          "2"
 		"LevelsBetweenUpgrades"  "2"
 	
-		"AbilityCastRange"				"150"
+		"AbilityCastRange"				"120" //было 150
 		
 		// Special	
 		//-------------------------------------------------------------------------------------------------------------
@@ -14963,7 +14963,7 @@
 			"02"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"radius"		"150"
+				"radius"		"120"  //было 150
 			}
 		}
 	
@@ -15295,7 +15295,7 @@
 			"02"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"crit_chance"				"13"
+				"crit_chance"				"11"  //было 13
 			}
 		}
 	
@@ -15390,7 +15390,7 @@
 			"01"
 			{
 				"var_type"			"FIELD_INTEGER"
-				"bonus_strength"	"25 50 75"
+				"bonus_strength"	"20 40 60"   //было 25 50 75
 			}
 			"02"
 			{
@@ -15468,7 +15468,7 @@
 	       "02"
 	        {
 	            "var_type"                "FIELD_FLOAT"
-	            "damage"                   "200 400 600"
+	            "damage"                   "200 300 400"   //было 200 400 600
 	        }
 	    }
 	  }
@@ -15511,7 +15511,7 @@
 	       "03"
 	        { 
 	          "var_type"  "FIELD_INTEGER"
-	          "hellish_heat_tick_damage" "15 30 60"
+	          "hellish_heat_tick_damage" "15 30 45"  //было 15 30 60
 	        }
 	    }
 	
@@ -15614,8 +15614,8 @@
 	    "AbilityTextureName"     "earthshaker_aftershock"
 	     "AbilityUnitTargetFlags" 		"DOTA_UNIT_TARGET_FLAG_MAGIC_IMMUNE_ENEMIES"   
 	
-	    "AoERadius"                "280"
-		"AbilityCastRange"			"280"
+	    "AoERadius"                "%radius"
+	    "AbilityCastRange"			"%radius"
 	
 	    "AbilityType"            "DOTA_ABILITY_TYPE_BASIC"
 	    "MaxLevel"               "3"
@@ -15699,7 +15699,7 @@
 	     "01"
 	      {
 	       "var_type"                "FIELD_INTEGER"
-	       "radius"                  "300"
+	       "radius"                  "230"
 	      }
 	     "02"
 	      {
@@ -16914,7 +16914,7 @@
 			"01"
 			{
 				"var_type"			"FIELD_INTEGER"
-				"damage"		"250 500 750"
+				"damage"		"200 400 600" //было 250 500 750
 			}
 			"02"
 			{
@@ -17410,7 +17410,7 @@
 		    "02"
 		    {
 		      "var_type"      "FIELD_INTEGER"
-		      "attackDamage"  	"80 160 240"
+		      "attackDamage"  	"60 120 180"   //было 80/160/240
 		    }
 		    "03"
 		    {
@@ -17961,7 +17961,7 @@
 			"01"
 			{
 				"var_type"			"FIELD_INTEGER"
-				"damage_per_second"		"30 60 120"
+				"damage_per_second"		"30 60 90"   //было 30 60 120
 			}
 			"02"
 			{
@@ -18151,7 +18151,7 @@
 	    	"01"
 	    	{
 	    		"var_type"			"FIELD_INTEGER"
-	    		"bonus_stats"		"15 30 45"
+	    		"bonus_stats"		"10 20 30"  //было 15 30 45
 	    	}
 	    	"02"
 	    	{
@@ -18278,7 +18278,7 @@
 			"02"
 			{
 				"var_type"				"FIELD_FLOAT"
-				"duration"				"10"
+				"duration"				"6.5" //было 10
 			}
 			"03"
 			{
@@ -18391,7 +18391,7 @@
 			"02"
 			{
 				"var_type"				"FIELD_FLOAT"
-				"duration"				"10"
+				"duration"				"6.5" //было 10
 			}
 			"03"
 			{
@@ -19074,7 +19074,7 @@
 		"RequiredLevel"          "5"
 		"LevelsBetweenUpgrades"  "4"
 		
-	   "AbilityCooldown"        "80.0"
+	   "AbilityCooldown"        "110.0"  //было 80
 	   "AbilityManaCost"        "100 145 190"
 	
 	  // Stats
@@ -19709,7 +19709,7 @@
 			"02"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"lightning_bounces"		"8 9 10"
+				"lightning_bounces"		"6 7 8"  //было 8 9 10
 			}
 			"03"
 			{
@@ -19780,7 +19780,7 @@
 			"02"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"lightning_bounces"		"12 13 14"
+				"lightning_bounces"		"9 10 11" // было 12 13 14
 			}
 			"03"
 			{
@@ -19859,7 +19859,7 @@
 			"02"
 			{
 				"var_type"		"FIELD_INTEGER"
-				"damage_per_second"			"20 40 80"
+				"damage_per_second"			"20 40 60"  //было 20 40 80
 			}
 			"03"
 			{
@@ -19937,7 +19937,7 @@
 			"02"
 			{
 				"var_type"		"FIELD_INTEGER"
-				"damage_per_second"			"40 70 100"
+				"damage_per_second"			"30 55 80" //было 40 70 100
 			}
 			"03"
 			{
@@ -20481,7 +20481,7 @@
 	    "04"
 	    {
 	      "var_type"      "FIELD_FLOAT"
-	      "duration"  "6.0 9.0 12.0"
+	      "duration"  "5.0 7.0 9.0" //была 6.0 9.0 12.0
 	    }
 		"05"
 	    {
@@ -20561,7 +20561,7 @@
 		"LevelsBetweenUpgrades"  "2"
 		
 		"AbilityCooldown"				"14.0 16.0 19.0"	
-		"AbilityDuration"	"10.0 12.0 15.0"
+		"AbilityDuration"	"10"  //было 10/12/15
 		"AbilityCastRange"	"250"
 		"AbilityManaCost"				"60 70 80"	
 		
@@ -20677,7 +20677,7 @@
 			"01"
 			{
 				"var_type"		"FIELD_INTEGER"
-				"heal_percentage"		"15 20 25"
+				"heal_percentage"		"10 12 14" //было 15 20 25
 			}
 		}
 		"Modifiers"
@@ -20806,7 +20806,7 @@
 			"particle"			"particles/units/heroes/hero_siren/naga_siren_song_debuff.vpcf"
 		}
 	
-		"AbilityCooldown"				"40 30 25"
+		"AbilityCooldown"				"30 40 50" //было 40 30 25
 	
 		"AbilityManaCost"				"80 100 120"	
 	
@@ -20816,7 +20816,7 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"radius"				"650"
+				"radius"				"400" //было 650
 			}
 			"02"
 			{
@@ -23514,7 +23514,7 @@
 	    "01"
 	    {
 	      "var_type"              "FIELD_INTEGER"
-	      "bonus_health_regen"    "25 50 75"
+	      "bonus_health_regen"    "30 40 50" //было 25 50 75
 	    }
 	  }
 	}
@@ -23905,7 +23905,7 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_agility"	"30 60 90"
+				"bonus_agility"	"20 40 60" //было 30 60 90
 			}
 			"02"
 			{
@@ -23973,7 +23973,7 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bash_chance"			"50 65 80"
+				"bash_chance"			"50 60 70"    //50 65 80
 			}
 			"02"
 			{
@@ -24069,7 +24069,7 @@
 			"01"
 			{
 				"var_type"			"FIELD_INTEGER"
-				"bonus_damage"		"75 150 225"		
+				"bonus_damage"		"50 100 150"  //было 75/150/225	
 			}
 			"02"
 			{
@@ -24563,7 +24563,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"attack_percentage"				"50 75 100"
+				"attack_percentage"				"40 60 80" //было 50 75 100
 			}
 		}
 	
@@ -25797,22 +25797,22 @@
 	    "02"
 	    {
 	      "var_type"               "FIELD_INTEGER"
-	      "outgoing_damage"        "-40 -20 -0"
+	      "outgoing_damage"        "-70 -65 -60" //было -40 -20 -0
 	    }
 	    "03"
 	    {
 	      "var_type"                   "FIELD_INTEGER"
-	      "outgoing_damage_tooltip"    "60 80 100"
+	      "outgoing_damage_tooltip"    "30 35 40" //было 60 80 100
 	    }
 	    "04"
 	    {
 	      "var_type"          "FIELD_INTEGER"
-	      "incoming_damage"     "175 150 125"
+	      "incoming_damage"     "100 80 60" // было 175 150 125
 	    }
 	    "05"
 	    {
 	      "var_type"          "FIELD_INTEGER"
-	      "tooltip_incoming_damage_total_pct"     "75 50 25"
+	      "tooltip_incoming_damage_total_pct"     "0 -20 -40" //было 75 50 25
 	    }
 	    "06"
 	    {
@@ -25907,7 +25907,7 @@
 	        "01"
 	        {
 	            "var_type"        "FIELD_INTEGER"
-	            "radius"          "150 175 200"
+	            "radius"          "120 130 140" //было 150 175 200
 	        }
 	    }
 	  
@@ -25979,7 +25979,7 @@
 	        "01"
 	        {
 	            "var_type"        "FIELD_INTEGER"
-	            "radius"          "150 175 200"
+	            "radius"          "120 130 140" //было 150 175 200
 	        }
 	    }
 	  
@@ -26498,12 +26498,12 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"main_target_percent"		"3 6 9"
+				"main_target_percent"		"2 4 6"  //было 3 6 9
 			}
 			"02"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"secondary_target_percent"		"3"
+				"secondary_target_percent"		"2"  //было 3
 			}
 			"03"
 			{
@@ -27594,7 +27594,7 @@
 			"01"
 			{
 				"var_type"			"FIELD_INTEGER"
-				"damage"		"300 600 900"
+				"damage"		"300 450 600"  //было 300 600 900
 			}
 			"02"
 			{
@@ -30196,7 +30196,7 @@
 	  "AbilityTextureName"      "witch_doctor_regeneration"
 		
 		"AbilityCooldown"				"120 90 60"
-		"AbilityManacost"				"200 250 300"
+		"AbilityManacost"				"300 400 500" //было 200 250 300
 		"AbilityCastPoint"				"0.1"
 	
 		"AbilityType"            "DOTA_ABILITY_TYPE_ULTIMATE"	
@@ -30973,7 +30973,7 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_attack"				"10 20 30 40 50 60 70 80 90"
+				"bonus_attack"				"8 16 24 32 40 48 56 64 72"
 			}
 			"02"
 			{
@@ -31011,8 +31011,8 @@
 		{
 			"01"
 			{
-				"var_type"				"FIELD_INTEGER"
-				"bonus_armor"				"2 4 6 8 10 12 14 16 18"
+				"var_type"				"FIELD_FLOAT"
+				"bonus_armor"				"1.5 3 4.5 6 7.5 9 10.5 12 13.5"
 			}
 			"02"
 			{
@@ -31050,7 +31050,7 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"attack_speed"				"5 15 25 35 45 55 65 75 85"
+				"attack_speed"				"5 10 15 20 25 30 35 45 55"
 			}
 			"02"
 			{
@@ -31194,7 +31194,7 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"hp_points"				"50 125 200 275 350 425 500 575 650"
+				"hp_points"				"50 100 150 200 250 300 350 400 450"
 			}
 			"02"
 			{

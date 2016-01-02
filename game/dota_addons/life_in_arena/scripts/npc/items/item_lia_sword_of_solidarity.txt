@@ -113,12 +113,12 @@
 		"01"
 		{
 			"var_type"     "FIELD_INTEGER"
-			"bonus_damage" "50 90"
+			"bonus_damage" "38 68"  //-25%, было 50 90
 		}
 		"02"
 		{
 			"var_type"  "FIELD_INTEGER"
-			"bonus_armor" "5 10"
+			"bonus_armor" "4 7"  //-30%, было 5 10
 		}
 		"03"
 		{
@@ -133,7 +133,7 @@
 		"05"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"active_armor"					"14 24"
+			"active_armor"					"10 17"  //-30%, было 14 24
 		}
 		"06"
 		{
@@ -216,12 +216,12 @@
 		"01"
 		{
 			"var_type"     "FIELD_INTEGER"
-			"bonus_damage" "90"
+			"bonus_damage" "68"	//-25%, было 90
 		}
 		"02"
 		{
 			"var_type"  "FIELD_INTEGER"
-			"bonus_armor" "10"
+			"bonus_armor" "7"	//-30%, было 10
 		}
 		"03"
 		{
@@ -241,7 +241,7 @@
 		"06"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"active_armor"					"24"
+			"active_armor"			"17" //-30%, было 24
 		}
 		"07"
 		{

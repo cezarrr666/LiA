@@ -91,13 +91,13 @@
 		"02"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"bonus_intelligence" "20 25"
+			"bonus_intelligence" "17 21"  //-15%, было 20 25
 		}
 
 		"03"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"bonus_armor_aura"			"5 8"
+			"bonus_armor_aura"			"4 6"  //-30%, было 5 8
 		}
 		"04"
 		{
@@ -234,13 +234,13 @@
 		"02"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"bonus_intelligence" "25"
+			"bonus_intelligence" "21"  //-15%, было 25
 		}
 
 		"03"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"bonus_armor_aura"			"8"
+			"bonus_armor_aura"			"6"  //-30%, было 8
 		}
 		"04"
 		{

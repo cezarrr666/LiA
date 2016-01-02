@@ -138,12 +138,12 @@
 		"01"
 		{
 			"var_type"     "FIELD_INTEGER"
-			"bonus_damage" "75"
+			"bonus_damage" "56" //-25%, было 75
 		}
 		"02"
 		{
 			"var_type"  "FIELD_INTEGER"
-			"bonus_mana" "350"
+			"bonus_mana" "245" //-30%, было 350
 		}
 		"03"
 		{

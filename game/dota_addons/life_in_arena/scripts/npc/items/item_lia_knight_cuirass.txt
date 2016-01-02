@@ -107,12 +107,12 @@
 		"01"
 		{
 			"var_type" "FIELD_INTEGER"
-			"bonus_armor" "20"
+			"bonus_armor" "14"	//-30%, было 20
 		}
 		"02"
 		{
 			"var_type" "FIELD_INTEGER"
-			"bonus_health" "650"
+			"bonus_health" "555"	//-15%, было 650
 		}
 		"03"
 		{

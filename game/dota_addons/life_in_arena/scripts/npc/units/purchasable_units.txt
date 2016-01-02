@@ -523,12 +523,12 @@
 	"Ability7" "" 
 	"Ability8" "" 
 
-	"ArmorPhysical" 		"16" 
+	"ArmorPhysical" 		"13" //-20%, было 16
 	"MagicalResistance" 		"100" 
 
 	"AttackCapabilities" 		"DOTA_UNIT_CAP_MELEE_ATTACK"
-	"AttackDamageMin" 			"100" 
-	"AttackDamageMax" 			"120" 
+	"AttackDamageMin" 			"80" //-20%, было 100/120
+	"AttackDamageMax" 			"96" 
 	"AttackRate" 				"0.95" 
 	"AttackAnimationPoint" 		"0.26" 
 	"AttackAcquisitionRange" 	"500" 

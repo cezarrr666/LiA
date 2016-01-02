@@ -323,7 +323,7 @@
 	"RequiredLevel"          "5"
 	"LevelsBetweenUpgrades"  "4"
 	
-   "AbilityCooldown"        "80.0"
+   "AbilityCooldown"        "110.0"  //было 80
    "AbilityManaCost"        "100 145 190"
 
   // Stats

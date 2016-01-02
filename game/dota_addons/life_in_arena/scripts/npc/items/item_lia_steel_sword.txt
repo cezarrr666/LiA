@@ -20,7 +20,7 @@
 		"01"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"bonus_damage"			"12"
+			"bonus_damage"			"9"  //-25%, было 12
 		}
 	}
 	

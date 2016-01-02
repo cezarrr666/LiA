@@ -213,7 +213,7 @@
 		"01"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"bonus_agility"	"30 60 90"
+			"bonus_agility"	"20 40 60" //было 30 60 90
 		}
 		"02"
 		{
@@ -281,7 +281,7 @@
 		"01"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"bash_chance"			"50 65 80"
+			"bash_chance"			"50 60 70"    //50 65 80
 		}
 		"02"
 		{
@@ -377,7 +377,7 @@
 		"01"
 		{
 			"var_type"			"FIELD_INTEGER"
-			"bonus_damage"		"75 150 225"		
+			"bonus_damage"		"50 100 150"  //было 75/150/225	
 		}
 		"02"
 		{

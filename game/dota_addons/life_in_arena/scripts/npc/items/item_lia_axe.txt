@@ -28,7 +28,7 @@
 		"01"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"bonus_strength"		"5"
+			"bonus_strength"		"4" //-15%, было 5
 		}
 	}
 	

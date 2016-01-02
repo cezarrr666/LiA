@@ -677,7 +677,7 @@
   "AbilityTextureName"      "witch_doctor_regeneration"
 	
 	"AbilityCooldown"				"120 90 60"
-	"AbilityManacost"				"200 250 300"
+	"AbilityManacost"				"300 400 500" //было 200 250 300
 	"AbilityCastPoint"				"0.1"
 
 	"AbilityType"            "DOTA_ABILITY_TYPE_ULTIMATE"	

@@ -72,7 +72,7 @@
 		"01"
 		{
 			"var_type" "FIELD_INTEGER"
-			"bonus_intelligence" "28"
+			"bonus_intelligence" "24" //-15%, было 28
 		}
 		"02"
 		{
@@ -82,7 +82,7 @@
 		"03"
 		{
 			"var_type" "FIELD_INTEGER"
-			"bonus_mana" "250"
+			"bonus_mana" "175"  //-30%, было 250
 		}
 		"04"
 		{

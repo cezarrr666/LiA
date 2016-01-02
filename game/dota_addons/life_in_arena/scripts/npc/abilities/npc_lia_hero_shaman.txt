@@ -332,7 +332,7 @@
 		"01"
 		{
 			"var_type"					"FIELD_INTEGER"
-			"attack_percentage"				"50 75 100"
+			"attack_percentage"				"40 60 80" //было 50 75 100
 		}
 	}
 

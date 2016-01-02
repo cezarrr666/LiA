@@ -46,22 +46,22 @@
 		"01"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"bonus_damage"			"35"
+			"bonus_damage"			"26" //-25%, было 35
 		}
 		"02"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"bonus_strength"	"25"
+			"bonus_strength"	"21"	//-15%, было 25
 		}
 		"03"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"bonus_intelligence"	"18"
+			"bonus_intelligence"	"15"	//-15%, было 18
 		}
 		"04"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"bonus_health"	"200"
+			"bonus_health"	"170"	//-15%, было 200
 		}
 		"05"
 		{

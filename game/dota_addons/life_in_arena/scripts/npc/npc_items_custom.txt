@@ -1,7 +1,6 @@
 //Generated using Dota Custom KVScript Files Merger by cris9696
 "DOTAAbilities"
 {
-	
 
 
 	//Start of file 1366
@@ -93,7 +92,7 @@
 			"01"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_damage" "25"
+				"bonus_damage" "19" // -25%, было 25
 			}
 			"02"
 			{
@@ -138,7 +137,7 @@
 				"01"
 				{
 					"var_type" "FIELD_INTEGER"
-					"bonus_health" "100"
+					"bonus_health" "85" //-15%, было 100
 				}
 			}
 			
@@ -449,7 +448,7 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_strength"		"5"
+				"bonus_strength"		"4" //-15%, было 5
 			}
 		}
 		
@@ -565,7 +564,7 @@
 			"01"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_damage" "45"
+				"bonus_damage" "34" // -25%, было 45
 			}
 			"02"
 			{
@@ -580,7 +579,7 @@
 			"04"
 			{
 				"var_type" "FIELD_INTEGER"
-				"aura_armor" "5"
+				"aura_armor" "4" // -30%, было 5
 			}
 		}
 	}
@@ -637,17 +636,17 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_damage"			"16"
+				"bonus_damage"			"12" // -25%, было 16
 			}
 			"02"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_strength"	"16"
+				"bonus_strength"	"14" //-15%, было 16
 			}
 			"03"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_armor"	"4"
+				"bonus_armor"	"3" // -30%, было 4
 			}
 	
 			"04"
@@ -831,7 +830,7 @@
 			"01"
 			{
 				"var_type"     "FIELD_INTEGER"
-				"bonus_damage" "70"
+				"bonus_damage" "53" //-25%, было 70
 			}
 			"02"
 			{
@@ -948,17 +947,17 @@
 			"01"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_strength" "50"
+				"bonus_strength" "43" //-15%, было 50
 			}
 			"02"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_damage" "100"
+				"bonus_damage" "75" //-25%, было 100
 			}
 			"03"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_attack_speed" "60"
+				"bonus_attack_speed" "48"  //-20%, было 60
 			}
 			"04"
 			{
@@ -1334,7 +1333,7 @@
 			"01"
 			{
 				"var_type"			"FIELD_INTEGER"
-				"bonus_damage"			"16"
+				"bonus_damage"			"12" //-25%, было 16
 			}
 		}
 		
@@ -1436,7 +1435,7 @@
 			"02"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_health" "200"
+				"bonus_health" "170" //-15%, было 200
 			}
 			"03"
 			{
@@ -1579,12 +1578,12 @@
 			"01"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_armor" "30"
+				"bonus_armor" "21" //-30%, было 30
 			}
 			"02"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_health" "700"
+				"bonus_health" "595" //-15%, было 700
 			}
 			"03"
 			{
@@ -1709,12 +1708,12 @@
 			"01"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_armor" "10"
+				"bonus_armor" "7" //-30%, было 10
 			}
 			"02"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_health" "175"
+				"bonus_health" "150" //-15%, было 175
 			}
 		}
 	}
@@ -1800,19 +1799,19 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_armor"			"13 16"
+				"bonus_armor"			"9 11" //-30%, было 13 16
 			}
 	
 			"02"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_health" 			"325 525"
+				"bonus_health" 			"275 445" //-15%, было 325 525
 			}
 	
 			"03"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"block_chance"			"80"
+				"block_chance"			"70" //был 80
 			}
 			"04"
 			{
@@ -1854,19 +1853,19 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_armor"			"16"
+				"bonus_armor"			"11" //-30%, было 16
 			}
 	
 			"02"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_health" 			"525"
+				"bonus_health" 			"445" //-15%, было 525
 			}
 	
 			"03"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"block_chance"			"80"
+				"block_chance"			"70" //был 80
 			}
 			"04"
 			{
@@ -2032,7 +2031,7 @@
 			"01"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_health" "550"
+				"bonus_health" "470" //-15%, было 550
 			}
 			"02"
 			{
@@ -2052,7 +2051,7 @@
 			"05"
 			{
 				"var_type" "FIELD_INTEGER"
-				"aura_armor" "13"
+				"aura_armor" "9" //-30%, было 13
 			}
 			"06"
 			{
@@ -2161,19 +2160,19 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_mana"	"350 500"
+				"bonus_mana"	"245 350" //-30%, было 350 500 
 			}
 	
 			"02"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_damage" "30 50"
+				"bonus_damage" "23 38" //-25%, было 30 50
 			}
 	
 			"03"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_attack_speed"			"30 45"
+				"bonus_attack_speed"			"24 36"  //-20%, было 30 45
 			}
 			"04"
 			{
@@ -2305,19 +2304,19 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_mana"	"500"
+				"bonus_mana"	"350" //-30%, было 500 
 			}
 	
 			"02"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_damage" "50"
+				"bonus_damage" "38" //-25%, было 50
 			}
 	
 			"03"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_attack_speed"			"45"
+				"bonus_attack_speed"			"36"  //-20%, было 45
 			}
 			"04"
 			{
@@ -2546,12 +2545,12 @@
 			"01"
 			{
 				"var_type"     "FIELD_INTEGER"
-				"bonus_damage" "75"
+				"bonus_damage" "56" //-25%, было 75
 			}
 			"02"
 			{
 				"var_type"  "FIELD_INTEGER"
-				"bonus_mana" "350"
+				"bonus_mana" "245" //-30%, было 350
 			}
 			"03"
 			{
@@ -2678,7 +2677,7 @@
 			"01"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_damage" "16"
+				"bonus_damage" "12" //-25%, было 16
 			}
 		
 			"02"
@@ -2745,23 +2744,23 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_agility"			"15"
+				"bonus_agility"			"13" //-15%, было 15
 			}
 			"02"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_strength"	"25"
+				"bonus_strength"	"21" //-15%, было 25
 			}
 			"03"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_armor"	"6"
+				"bonus_armor"	"4" //-30%, было 6
 			}
 	
 			"04"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_attack_speed" "60"
+				"bonus_attack_speed" "48"   //-20%, было 60
 			}
 	
 			"05"
@@ -2904,7 +2903,7 @@
 					"01"
 					{
 						"var_type" "FIELD_INTEGER"
-						"bonus_attack_speed" "15"
+						"bonus_attack_speed" "12" //-20%, было 15
 					}
 				}
 				
@@ -2952,7 +2951,7 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_strength"		"15"
+				"bonus_strength"		"13" //-15%, было 15
 			}
 		}
 		
@@ -3140,12 +3139,12 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_mana"			"400"
+				"bonus_mana"			"280"	//-30%, было 400
 			}
 			"02"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_intelligence" "20"
+				"bonus_intelligence" "17"	//-15%, было 20
 			}
 			"03"
 			{
@@ -3155,7 +3154,7 @@
 			"04"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"aura_mana_regen"		"8"
+				"aura_mana_regen"		"7"	//-15%, было 8
 			}
 			"05"
 			{
@@ -3231,22 +3230,22 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_damage"			"35"
+				"bonus_damage"			"26" //-25%, было 35
 			}
 			"02"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_strength"	"25"
+				"bonus_strength"	"21"	//-15%, было 25
 			}
 			"03"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_intelligence"	"18"
+				"bonus_intelligence"	"15"	//-15%, было 18
 			}
 			"04"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_health"	"200"
+				"bonus_health"	"170"	//-15%, было 200
 			}
 			"05"
 			{
@@ -3601,17 +3600,17 @@
 			"01"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_attack_speed" "40"
+				"bonus_attack_speed" "32"  //-20%, было 40
 			}
 			"02"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_damage" "60"
+				"bonus_damage" "45" //-25%, было 60
 			}
 			"03"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_strength" "30"
+				"bonus_strength" "26" //-15%, было 30
 			}
 		}
 	}
@@ -3725,7 +3724,7 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_armor"			"6"
+				"bonus_armor"			"4" //-30%, было 6
 			}
 		}
 		
@@ -3835,12 +3834,12 @@
 			"01"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_strength" "15"
+				"bonus_strength" "13"	//-15%, было 15
 			}
 			"02"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_damage" "32"
+				"bonus_damage" "24"	//-25%, было 32
 			}
 			"03"
 			{
@@ -4207,12 +4206,12 @@
 			"01"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_mana" "600"
+				"bonus_mana" "420" //-30%, было 600
 			}
 			"02"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_damage" "60"
+				"bonus_damage" "45"	//-25%, было 60
 			}
 		   	"03"
 		   	{
@@ -4247,7 +4246,7 @@
 			"09"
 			{
 				"var_type"						"FIELD_FLOAT"
-				"stun_duration"					"3.0"
+				"stun_duration"					"2.5" //было 3.0
 			}
 			"10"
 			{
@@ -4374,12 +4373,12 @@
 			"01"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_armor" "20"
+				"bonus_armor" "14"	//-30%, было 20
 			}
 			"02"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_health" "650"
+				"bonus_health" "555"	//-15%, было 650
 			}
 			"03"
 			{
@@ -4482,12 +4481,12 @@
 			"01"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_armor" "5"
+				"bonus_armor" "4" //-30%, было 5
 			}
 			"02"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_health" "200"
+				"bonus_health" "170"  //-15%, было 200
 			}
 			"03"
 			{
@@ -4557,12 +4556,12 @@
 			"01"
 			{
 				"var_type" 				"FIELD_INTEGER"
-				"bonus_attack_speed" 	"100"
+				"bonus_attack_speed" 	"80"	//-20%, было 100
 			}
 			"02"
 			{
 				"var_type" 				"FIELD_INTEGER"
-				"bonus_agility" 		"90"
+				"bonus_agility" 		"77"  //-15%, было 90
 			}
 			"03"
 			{
@@ -4756,7 +4755,7 @@
 			"01"
 			{
 				"var_type" 				"FIELD_INTEGER"
-				"bonus_damage" 			"45"
+				"bonus_damage" 			"34" //-25%, было 45
 			}
 		
 			"02"
@@ -4990,17 +4989,17 @@
 			"01"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_health" "300"
+				"bonus_health" "255"  //-15%, было 300
 			}
 			"02"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_mana" "300"
+				"bonus_mana" "210"  //-30%, было 300
 			}
 			"03"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_all_stats" "35"
+				"bonus_all_stats" "30"  //-15%, было 35
 			}
 			"04"
 			{
@@ -5084,17 +5083,17 @@
 			"01"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_attack_speed" "100"
+				"bonus_attack_speed" "80"  //-20%, было 100
 			}
 			"02"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_damage" "30"
+				"bonus_damage" "23"  //-25%, было 30
 			}
 			"03"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_agility" "30"
+				"bonus_agility" "26"  //-15%, было 30
 			}
 		}
 	}
@@ -5158,7 +5157,7 @@
 			"01"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_armor" "8"
+				"bonus_armor" "6" //-30%, было 8
 			}
 			"02"
 			{
@@ -5228,7 +5227,7 @@
 			"01"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_all_stats" "25"
+				"bonus_all_stats" "21"  //-15%, было 25
 			}
 	
 		}
@@ -5292,7 +5291,7 @@
 			"01"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_intelligence" "24"
+				"bonus_intelligence" "20" //-15%, было 24
 			}
 			"02"
 			{
@@ -5458,12 +5457,12 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_mana"			"300"
+				"bonus_mana"			"210"  //-30%, было 300
 			}
 			"02"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_intelligence" "15"
+				"bonus_intelligence" "13"  //-15%, было 15
 			}
 			"03"
 			{
@@ -5473,7 +5472,7 @@
 			"04"
 			{
 				"var_type"				"FIELD_FLOAT"
-				"aura_mana_regen"		"4.0"
+				"aura_mana_regen"		"3"  //-15%, было 4
 			}
 		}
 	}
@@ -5503,7 +5502,7 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_mana"			"150"
+				"bonus_mana"			"105"  //-30%, было 150
 			}
 		}
 		
@@ -5715,13 +5714,13 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_armor"	"16"
+				"bonus_armor"	"11"  //-30%, было 16
 			}
 	
 			"02"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_health" "250"
+				"bonus_health" "215"  //-15%, было 250
 			}
 			"03"
 			{
@@ -5861,7 +5860,7 @@
 				"01"
 				{
 					"var_type" "FIELD_INTEGER"
-					"bonus_agility" "6"
+					"bonus_agility" "5"  //-15%, было 6
 				}
 			}
 			
@@ -6112,12 +6111,12 @@
 			"01"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_mana" "500"
+				"bonus_mana" "350"  //-30%, было 500
 			}
 			"02"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_damage" "30"
+				"bonus_damage" "23"  //-25%, было 30
 			}
 		   	"03"
 		   	{
@@ -6211,17 +6210,17 @@
 			"01"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_attack_speed" "50"
+				"bonus_attack_speed" "40"  //-20%, было 50
 			}
 			"02"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_damage" "30"
+				"bonus_damage" "23"  //-25%, было 30
 			}
 			"03"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_agility" "15"
+				"bonus_agility" "13"  //-15%, было 15
 			}
 		}
 	}
@@ -6371,7 +6370,7 @@
 			"01"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_damage" "40"
+				"bonus_damage" "30"  //-25%, было 40
 			}
 		
 			"02"
@@ -6688,17 +6687,17 @@
 			"01"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_attack_speed" "80"
+				"bonus_attack_speed" "64"   //-20%, было 80
 			}
 			"02"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_damage" "50"
+				"bonus_damage" "38"  //-25%, было 50
 			}
 			"03"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_agility" "25"
+				"bonus_agility" "21"  //-15%, было 25
 			}
 			"04"
 			{
@@ -6817,17 +6816,17 @@
 			"01"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_attack_speed" "80"
+				"bonus_attack_speed" "64" //-20%, было 80
 			}
 			"02"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_damage" "50"
+				"bonus_damage" "38"  //-25%, было 50
 			}
 			"03"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_strength" "25"
+				"bonus_strength" "21"  //-15%, было 25
 			}
 			"04"
 			{
@@ -6869,7 +6868,7 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_armor"			"3"
+				"bonus_armor"			"2"  //-30%, было 3
 			}
 		}
 		
@@ -7038,12 +7037,12 @@
 			"01"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_attack_speed" "20"
+				"bonus_attack_speed" "16"  //-20%, было 20
 			}
 			"02"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_damage" "20"
+				"bonus_damage" "15"  //-25%, было 20
 			}
 		}
 	}
@@ -8021,7 +8020,7 @@
 	
 		"AbilityCastPoint"				"0.0"
 		"AbilityCooldown"				"12.0"
-		"AbilityManaCost"				"180"
+		"AbilityManaCost"				"65"  //было 180
 		
 		"precache"
 		{
@@ -8127,7 +8126,7 @@
 			"02"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_health" "450"
+				"bonus_health" "385" //-15%, было 450
 			}
 			"03"
 			{
@@ -8137,7 +8136,7 @@
 			"04"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"radius"			"200"
+				"radius"			"275" //было 200
 			}
 			"05"
 			{
@@ -8211,12 +8210,12 @@
 			"01"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_armor" "7"
+				"bonus_armor" "5"  //-30%, было 7
 			}
 			"02"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_health" "400"
+				"bonus_health" "340"  //-15%, было 400
 			}
 			"03"
 			{
@@ -8258,7 +8257,7 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_damage"			        "24"
+				"bonus_damage"			        "18" //-25%, было 24
 			}
 		}
 		
@@ -8343,7 +8342,7 @@
 				"02"
 				{
 					"var_type" 						"FIELD_INTEGER"
-					"bonus_int" 					"30"
+					"bonus_int" 					"26" //-15%, было 30
 				}
 				//"03"
 				//{
@@ -8358,7 +8357,7 @@
 				"05"
 				{
 					"var_type" 						"FIELD_FLOAT"
-					"stun_duration" 				"2.7"
+					"stun_duration" 				"2.2"  //было 2.7
 				}
 				"06"
 				{
@@ -8536,7 +8535,7 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_intelligence"	"12"
+				"bonus_intelligence"	"10"  //-15%, было 12
 			}
 		}
 		
@@ -8652,13 +8651,13 @@
 			"02"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_intelligence" "20 25"
+				"bonus_intelligence" "17 21"  //-15%, было 20 25
 			}
 	
 			"03"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_armor_aura"			"5 8"
+				"bonus_armor_aura"			"4 6"  //-30%, было 5 8
 			}
 			"04"
 			{
@@ -8795,13 +8794,13 @@
 			"02"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_intelligence" "25"
+				"bonus_intelligence" "21"  //-15%, было 25
 			}
 	
 			"03"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_armor_aura"			"8"
+				"bonus_armor_aura"			"6"  //-30%, было 8
 			}
 			"04"
 			{
@@ -8970,7 +8969,7 @@
 			"01"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_intelligence" "28"
+				"bonus_intelligence" "24" //-15%, было 28
 			}
 			"02"
 			{
@@ -8980,7 +8979,7 @@
 			"03"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_mana" "250"
+				"bonus_mana" "175"  //-30%, было 250
 			}
 			"04"
 			{
@@ -9200,7 +9199,7 @@
 			"01"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_intelligence" "35"
+				"bonus_intelligence" "30"  //-15%, было 35
 			}
 			"02"
 			{
@@ -9267,7 +9266,7 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_damage"			"12"
+				"bonus_damage"			"9"  //-25%, было 12
 			}
 		}
 		
@@ -9522,12 +9521,12 @@
 			"01"
 			{
 				"var_type"     "FIELD_INTEGER"
-				"bonus_damage" "50 90"
+				"bonus_damage" "38 68"  //-25%, было 50 90
 			}
 			"02"
 			{
 				"var_type"  "FIELD_INTEGER"
-				"bonus_armor" "5 10"
+				"bonus_armor" "4 7"  //-30%, было 5 10
 			}
 			"03"
 			{
@@ -9542,7 +9541,7 @@
 			"05"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"active_armor"					"14 24"
+				"active_armor"					"10 17"  //-30%, было 14 24
 			}
 			"06"
 			{
@@ -9625,12 +9624,12 @@
 			"01"
 			{
 				"var_type"     "FIELD_INTEGER"
-				"bonus_damage" "90"
+				"bonus_damage" "68"	//-25%, было 90
 			}
 			"02"
 			{
 				"var_type"  "FIELD_INTEGER"
-				"bonus_armor" "10"
+				"bonus_armor" "7"	//-30%, было 10
 			}
 			"03"
 			{
@@ -9650,7 +9649,7 @@
 			"06"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"active_armor"					"24"
+				"active_armor"			"17" //-30%, было 24
 			}
 			"07"
 			{
@@ -9718,12 +9717,12 @@
 			"03"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_armor" "15"
+				"bonus_armor" "11"	//-30%, было 15
 			}
 			"04"
 			{
 				"var_type" "FIELD_INTEGER"
-				"bonus_health" "250"
+				"bonus_health" "215"  //-15%, было 250
 			}		
 			"05"
 			{

@@ -54,17 +54,17 @@
 		"01"
 		{
 			"var_type" "FIELD_INTEGER"
-			"bonus_attack_speed" "100"
+			"bonus_attack_speed" "80"  //-20%, было 100
 		}
 		"02"
 		{
 			"var_type" "FIELD_INTEGER"
-			"bonus_damage" "30"
+			"bonus_damage" "23"  //-25%, было 30
 		}
 		"03"
 		{
 			"var_type" "FIELD_INTEGER"
-			"bonus_agility" "30"
+			"bonus_agility" "26"  //-15%, было 30
 		}
 	}
 }

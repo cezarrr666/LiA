@@ -21,7 +21,7 @@
 		"01"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"bonus_intelligence"	"12"
+			"bonus_intelligence"	"10"  //-15%, было 12
 		}
 	}
 	

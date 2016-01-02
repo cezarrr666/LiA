@@ -41,7 +41,7 @@
 		"01"
 		{
 			"var_type"			"FIELD_INTEGER"
-			"damage_per_second"		"30 60 120"
+			"damage_per_second"		"30 60 90"   //было 30 60 120
 		}
 		"02"
 		{
@@ -231,7 +231,7 @@
     	"01"
     	{
     		"var_type"			"FIELD_INTEGER"
-    		"bonus_stats"		"15 30 45"
+    		"bonus_stats"		"10 20 30"  //было 15 30 45
     	}
     	"02"
     	{
@@ -358,7 +358,7 @@
 		"02"
 		{
 			"var_type"				"FIELD_FLOAT"
-			"duration"				"10"
+			"duration"				"6.5" //было 10
 		}
 		"03"
 		{
@@ -471,7 +471,7 @@
 		"02"
 		{
 			"var_type"				"FIELD_FLOAT"
-			"duration"				"10"
+			"duration"				"6.5" //было 10
 		}
 		"03"
 		{

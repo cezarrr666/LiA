@@ -75,19 +75,19 @@
 		"01"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"bonus_armor"			"13 16"
+			"bonus_armor"			"9 11" //-30%, было 13 16
 		}
 
 		"02"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"bonus_health" 			"325 525"
+			"bonus_health" 			"275 445" //-15%, было 325 525
 		}
 
 		"03"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"block_chance"			"80"
+			"block_chance"			"70" //был 80
 		}
 		"04"
 		{
@@ -129,19 +129,19 @@
 		"01"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"bonus_armor"			"16"
+			"bonus_armor"			"11" //-30%, было 16
 		}
 
 		"02"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"bonus_health" 			"525"
+			"bonus_health" 			"445" //-15%, было 525
 		}
 
 		"03"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"block_chance"			"80"
+			"block_chance"			"70" //был 80
 		}
 		"04"
 		{

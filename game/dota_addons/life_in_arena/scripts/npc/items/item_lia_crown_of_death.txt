@@ -77,7 +77,7 @@
 		"02"
 		{
 			"var_type" "FIELD_INTEGER"
-			"bonus_health" "200"
+			"bonus_health" "170" //-15%, было 200
 		}
 		"03"
 		{

@@ -203,7 +203,7 @@
     "AbilityTextureName"     "butcher_howl_of_terror"
     
 	"AbilityCastRange"	"1500"
-    "AbilityCooldown" "60.0"
+    "AbilityCooldown" "90.0"  //было 60
 
     "AbilityManaCost" "100 150 200"
 	

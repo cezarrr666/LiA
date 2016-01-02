@@ -399,7 +399,7 @@
 	    "02"
 	    {
 	      "var_type"      "FIELD_INTEGER"
-	      "attackDamage"  	"80 160 240"
+	      "attackDamage"  	"60 120 180"   //было 80/160/240
 	    }
 	    "03"
 	    {

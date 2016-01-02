@@ -118,17 +118,17 @@
 		"01"
 		{
 			"var_type" "FIELD_INTEGER"
-			"bonus_health" "300"
+			"bonus_health" "255"  //-15%, было 300
 		}
 		"02"
 		{
 			"var_type" "FIELD_INTEGER"
-			"bonus_mana" "300"
+			"bonus_mana" "210"  //-30%, было 300
 		}
 		"03"
 		{
 			"var_type" "FIELD_INTEGER"
-			"bonus_all_stats" "35"
+			"bonus_all_stats" "30"  //-15%, было 35
 		}
 		"04"
 		{

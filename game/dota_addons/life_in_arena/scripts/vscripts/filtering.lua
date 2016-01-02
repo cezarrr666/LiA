@@ -77,7 +77,7 @@ Spells  100%    100%    100%    100%    100%   70%
 		elseif armor_type == "fortified" then
 			return 0.35
 		elseif armor_type == "hero" then
-			return 0.7 --0.5
+			return 1.05 --было 0.7 				--0.5
 		end
 
 	elseif attack_type == "siege" then

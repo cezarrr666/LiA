@@ -248,7 +248,7 @@
 		"02"
 		{
 			"var_type"					"FIELD_INTEGER"
-			"crit_chance"				"13"
+			"crit_chance"				"11"  //было 13
 		}
 	}
 
@@ -343,7 +343,7 @@
 		"01"
 		{
 			"var_type"			"FIELD_INTEGER"
-			"bonus_strength"	"25 50 75"
+			"bonus_strength"	"20 40 60"   //было 25 50 75
 		}
 		"02"
 		{

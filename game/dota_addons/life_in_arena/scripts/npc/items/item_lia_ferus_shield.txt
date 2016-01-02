@@ -151,7 +151,7 @@
 		"01"
 		{
 			"var_type" "FIELD_INTEGER"
-			"bonus_health" "550"
+			"bonus_health" "470" //-15%, было 550
 		}
 		"02"
 		{
@@ -171,7 +171,7 @@
 		"05"
 		{
 			"var_type" "FIELD_INTEGER"
-			"aura_armor" "13"
+			"aura_armor" "9" //-30%, было 13
 		}
 		"06"
 		{

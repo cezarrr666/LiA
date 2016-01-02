@@ -163,12 +163,12 @@
 		"01"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"bonus_mana"			"400"
+			"bonus_mana"			"280"	//-30%, было 400
 		}
 		"02"
 		{
 			"var_type" "FIELD_INTEGER"
-			"bonus_intelligence" "20"
+			"bonus_intelligence" "17"	//-15%, было 20
 		}
 		"03"
 		{
@@ -178,7 +178,7 @@
 		"04"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"aura_mana_regen"		"8"
+			"aura_mana_regen"		"7"	//-15%, было 8
 		}
 		"05"
 		{

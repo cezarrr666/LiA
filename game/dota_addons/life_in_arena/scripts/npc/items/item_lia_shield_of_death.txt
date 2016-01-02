@@ -41,7 +41,7 @@
 
 	"AbilityCastPoint"				"0.0"
 	"AbilityCooldown"				"12.0"
-	"AbilityManaCost"				"180"
+	"AbilityManaCost"				"65"  //было 180
 	
 	"precache"
 	{
@@ -147,7 +147,7 @@
 		"02"
 		{
 			"var_type" "FIELD_INTEGER"
-			"bonus_health" "450"
+			"bonus_health" "385" //-15%, было 450
 		}
 		"03"
 		{
@@ -157,7 +157,7 @@
 		"04"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"radius"			"200"
+			"radius"			"275" //было 200
 		}
 		"05"
 		{

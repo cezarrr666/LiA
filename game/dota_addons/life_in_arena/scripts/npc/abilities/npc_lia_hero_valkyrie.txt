@@ -140,12 +140,12 @@
 		"01"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"main_target_percent"		"3 6 9"
+			"main_target_percent"		"2 4 6"  //было 3 6 9
 		}
 		"02"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"secondary_target_percent"		"3"
+			"secondary_target_percent"		"2"  //было 3
 		}
 		"03"
 		{

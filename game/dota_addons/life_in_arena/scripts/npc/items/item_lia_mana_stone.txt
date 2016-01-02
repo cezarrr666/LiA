@@ -20,7 +20,7 @@
 		"01"
 		{
 			"var_type"				"FIELD_INTEGER"
-			"bonus_mana"			"150"
+			"bonus_mana"			"105"  //-30%, было 150
 		}
 	}
 	

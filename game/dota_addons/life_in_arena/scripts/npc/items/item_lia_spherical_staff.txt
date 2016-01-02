@@ -60,7 +60,7 @@
 			"02"
 			{
 				"var_type" 						"FIELD_INTEGER"
-				"bonus_int" 					"30"
+				"bonus_int" 					"26" //-15%, было 30
 			}
 			//"03"
 			//{
@@ -75,7 +75,7 @@
 			"05"
 			{
 				"var_type" 						"FIELD_FLOAT"
-				"stun_duration" 				"2.7"
+				"stun_duration" 				"2.2"  //было 2.7
 			}
 			"06"
 			{

@@ -452,7 +452,7 @@
     "01"
     {
       "var_type"              "FIELD_INTEGER"
-      "bonus_health_regen"    "25 50 75"
+      "bonus_health_regen"    "30 40 50" //было 25 50 75
     }
   }
 }

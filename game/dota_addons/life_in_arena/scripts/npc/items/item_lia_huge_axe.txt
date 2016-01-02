@@ -85,12 +85,12 @@
 		"01"
 		{
 			"var_type" "FIELD_INTEGER"
-			"bonus_strength" "15"
+			"bonus_strength" "13"	//-15%, было 15
 		}
 		"02"
 		{
 			"var_type" "FIELD_INTEGER"
-			"bonus_damage" "32"
+			"bonus_damage" "24"	//-25%, было 32
 		}
 		"03"
 		{

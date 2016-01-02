@@ -193,12 +193,12 @@
 		"01"
 		{
 			"var_type" "FIELD_INTEGER"
-			"bonus_mana" "600"
+			"bonus_mana" "420" //-30%, было 600
 		}
 		"02"
 		{
 			"var_type" "FIELD_INTEGER"
-			"bonus_damage" "60"
+			"bonus_damage" "45"	//-25%, было 60
 		}
 	   	"03"
 	   	{
@@ -233,7 +233,7 @@
 		"09"
 		{
 			"var_type"						"FIELD_FLOAT"
-			"stun_duration"					"3.0"
+			"stun_duration"					"2.5" //было 3.0
 		}
 		"10"
 		{

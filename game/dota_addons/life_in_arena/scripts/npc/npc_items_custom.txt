@@ -9464,7 +9464,7 @@
 		"ItemQuality"					"rare"
 		"AbilityTextureName"			"item_lia_sword_of_solidarity"
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"				   
-	    "AbilityCooldown"        		"28"
+	    "AbilityCooldown"        		"40" //было 28
 	
 		"AbilitySharedCooldown" "Salvation"
 		
@@ -9568,7 +9568,7 @@
 		"ItemQuality"					"rare"
 		"AbilityTextureName"			"item_lia_sword_of_solidarity"
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"				   
-	    "AbilityCooldown"        		"28"
+	    "AbilityCooldown"        		"40" //было 28
 	
 		"AbilitySharedCooldown" "Salvation"
 		
